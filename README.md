@@ -1,2 +1,1 @@
-# florescores
-React Projeto Flores
+# Loja-de-Tenis-React

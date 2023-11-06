@@ -1,0 +1,28 @@
+[{
+        "id": 1,
+        "nome": "Flores Atropicais",
+        "descrição": "Flores coloridas e com vida duradoura",
+        "preço": 399.99,
+        "estoque": 7,
+        "img": "https://media.discordapp.net/attachments/808418993446060052/1171092709604331560/annie-spratt-WBpr_yH0Frg-unsplash.jpg?ex=655b6c13&is=6548f713&hm=351cb82b369511545acff0acf88f0d9ded71441ce8ce3c7d9bba855f5c88471e&=&width=370&height=593",
+        "href":"/produto1"
+    },
+    {
+        "id": 2,
+        "nome": "Flor Roxa Clara (Aspectus Notorius)",
+        "descrição": "Ultra Rara",
+        "preço": 1599.99,
+        "estoque": 1,
+        "img": "https://media.discordapp.net/attachments/808418993446060052/1171093568992059492/tavin-dotson-WC4IWN3-fSo-unsplash.jpg?ex=655b6ce0&is=6548f7e0&hm=1eb59db9167f1a83ed31c864f704284f4b4c3bfafb0ea0426297c38a123d36ba&=&width=370&height=593",
+        "href":"/produto2"
+    },
+    {
+        "id": 3,
+        "nome": "Tênis Suede Classic XXI",
+        "descrição": "Uma excelente flor para presentear as pessoas",
+        "preço": 99.99,
+        "estoque": 30,
+        "img": "https://media.discordapp.net/attachments/808418993446060052/1171094295047049356/alex-seinet-8dmtbpJJJ7k-unsplash.jpg?ex=655b6d8d&is=6548f88d&hm=d82b4565684bc9f643a062abbde7ba329d2e305dcaa59d71b01e384e43b4b615&=&width=370&height=593",
+        "href":"/produto3"
+    }
+]
